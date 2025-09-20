@@ -65,6 +65,7 @@ EV-Adoption-Analysis/ │── data/                 # Dataset (raw + cleaned C
 │── README.md             # Project documentation
 
 ---
+## Data source: https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 ## 🚀 How to Run  
 1. Clone this repository:  
